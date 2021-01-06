@@ -1,2 +1,2 @@
-# first-android-project
+# first-coursera-adroid-project
 Coursera first android studio project
